@@ -40,3 +40,10 @@ Install required packages:
 
 ```bash
 pip install pdfplumber python-docx openpyxl reportlab
+
+### setup
+
+Clone or download the project:
+```bash
+git clone <your-repository-url>
+cd document-processor
