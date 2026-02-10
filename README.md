@@ -4,7 +4,6 @@
 A Python-based system that automatically reads, classifies, and analyzes various document formats (PDF, DOCX, TXT, XLSX) into predefined categories (HR, Finance, Operations, Legal).
 
 ## Features
-
 - **Multi-format Support**: Processes PDF, DOCX, TXT, and XLSX files
 - **Automatic Classification**: Categorizes documents based on keyword detection
 - **Text Analysis**: Extracts word count, character count, dates, and amounts
